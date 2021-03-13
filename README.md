@@ -1,4 +1,8 @@
 # CRUD - Produtos
 
-![Screenshot](http://localhost:8080/swagger-ui/index.html#/produto-controller)
+-<b>GET /api/produtos<b/> // Retorna uma lista de produtos
+-GET /api/produto/{id} // Retorna um único produto
+- POST /api/produto // Salva um produto
+- PUT /api/produto/{id} // Atualiza um produto
+- DELETE /api/produto/{id} // Deleta um produto
 
